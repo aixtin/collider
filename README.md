@@ -19,3 +19,9 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 
 引擎词库与模板移植自云端 `collider.py`，数据结构与 `sparks.json` 同构。
+
+
+## 开发协作
+
+本项目由 aixtin 主导设计与真机验收，编码实现由 AI 编程助手 Marvis（驱动模型：腾讯混元 Hy3 + DeepSeek-V4 Pro）辅助完成。详见 [COLLABORATION.md](COLLABORATION.md)。
+
