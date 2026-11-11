@@ -25,3 +25,7 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 本项目由 aixtin 主导设计与真机验收，编码实现由 AI 编程助手 Marvis 辅助完成。详见 [COLLABORATION.md](COLLABORATION.md)。
 
+## 作者
+
+由 **atin**（GitHub [@aixtin](https://github.com/aixtin)）独立设计与维护。
+`atin` 与 `aixtin` 是同一个人，主页与全部项目见 <https://atin.asia/about/>。
